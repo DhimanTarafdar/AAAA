@@ -23,7 +23,7 @@ This notebook converts Sanskrit mantras into devotional MP3 audio using Python.
 4. Run all cells
 5. Download generated MP3 files
 
-## 🎵 Output
+## Output
 Each mantra will be saved as a separate high-quality spiritual audio file.
 
 ## 🙏 Purpose

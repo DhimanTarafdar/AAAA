@@ -9,7 +9,7 @@ This notebook converts Sanskrit mantras into devotional MP3 audio using Python.
 - Audio enhancement using `pydub`
 - Easy mantra customization
 
-## 🛠️ Technologies
+## Technologies
 - Python
 - gTTS
 - pydub

@@ -1,4 +1,4 @@
-# 🕉️ Spiritual Mantra Audio Generator
+# Spiritual Mantra Audio Generator
 
 This notebook converts Sanskrit mantras into devotional MP3 audio using Python.
 

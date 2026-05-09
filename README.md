@@ -2,7 +2,7 @@
 
 This notebook converts Sanskrit mantras into devotional MP3 audio using Python.
 
-## ✨ Features
+## Features
 - Convert mantra text to speech
 - Generate separate `.mp3` files
 - Female devotional voice effect

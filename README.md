@@ -16,7 +16,7 @@ This notebook converts Sanskrit mantras into devotional MP3 audio using Python.
 - FFmpeg
 - Google Colab
 
-## 📌 How to Use
+## How to Use
 1. Open the notebook in Google Colab
 2. Install required libraries
 3. Add your mantras inside the `MANTRAS` dictionary
